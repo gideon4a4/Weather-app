@@ -11,6 +11,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //ahdjhfdjhafj
         getActionBar().getCustomView().getId();
+        //fgnjdgjg//
+        //796786786
+
 
     }
 }
